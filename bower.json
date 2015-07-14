@@ -1,0 +1,23 @@
+{
+  "name": "font-lato",
+  "version": "1.0.1",
+  "description": "An HTML import for Lato",
+  "authors": [
+    "The Polymer Authors",
+    "Ahmed Masud <ahmed.masud@trustifier.com>"
+  ],
+  "keywords": [
+    "font",
+    "lato"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahmed-masud/font-lato.git"
+  },
+  "main": "roboto.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/ahmed-masud/font-lato/",
+  "ignore": [
+    "/.*"
+  ]
+}
